@@ -33,21 +33,21 @@ Then open `http://localhost:3000` in your browser.
 
 #### -----------------------------------------------------------------------------
 
-## Product: ResumeTailor
+# Product: ResumeTailor
 
-# Problem
+#### Problem
 
 Job seekers must tailor resumes for each job application to pass ATS filters.
 
-# Solution
+#### Solution
 
 Generate a customized resume from a linkedin profile link + job description using AI.
 
-# Target Users
+#### Target Users
 
 Developers and tech job seekers applying to multiple jobs.
 
-## MVP Features
+##### MVP Features
 
 - Resume input
 - Job description input
@@ -55,6 +55,6 @@ Developers and tech job seekers applying to multiple jobs.
 - Resume preview
 - PDF download
 
-## Success Metric
+##### Success Metric
 
 50 paying users at R$15 each.
